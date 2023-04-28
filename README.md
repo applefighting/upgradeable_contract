@@ -31,6 +31,7 @@ https://goerli.etherscan.io/tx/0xe91f2ea1b826eba32fb9d49ab6d9e0e18163153d47a2377
 upgrade
 https://goerli.etherscan.io/tx/0xc0947d62654b737a83d89278aaab0b61a51f3b9d689ae0dd48d94854fdab171d
 change proxy's logic contract address  to the logic v2 in proxyadmin
+
 tx to proxyadmin：
 0x992c63d3a6BB20A6CA2534878bd6a1a0C1777d13
 
